@@ -1,4 +1,3 @@
-dataset/*
 dataset/.gitkeep 
 mean_devstd.txt
 train_file.csv
